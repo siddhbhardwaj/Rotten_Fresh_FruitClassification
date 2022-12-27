@@ -1,5 +1,5 @@
 # CLassification of Rotten and Fresh Fruit using CNN  
-#Dataset Information
+# Dataset Information  
 This dataset contains:  
 
 images of rotten apples  
