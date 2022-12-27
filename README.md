@@ -1,5 +1,5 @@
 # CLassification of Rotten and Fresh Fruit using CNN  
-I built this CNN in Keras Tensorflow  
+Built this CNN in Keras Tensorflow  
 # Dataset Information  
 This dataset contains:  
 
